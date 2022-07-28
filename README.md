@@ -94,7 +94,7 @@ However, you can pre set the module default by following these instructions.
 Setup Instructions
 --------------------    
     
-Setting up the module requires at a minimum a merchantID, a signature/secret key and a gateway URL i.e. https://gateway.example.com to be entered in the plugin's settings.
+Setting up the module requires at a minimum a merchantID, a signature/secret key and a gateway URL i.e. https://commerce-api.handpoint.com to be entered in the plugin's settings.
 
 You will then need to select an integration type to use.
 
